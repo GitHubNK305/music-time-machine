@@ -9,8 +9,8 @@ import pprint
 
 BILLBOARD_URL = "https://www.billboard.com/charts/hot-100/"
 
-CLIENT_ID ="081c809d38714ccba3b3a1b048974b0b"
-CLIENT_SECRET = "9e722b93bf2947b6bcfbea54709c5857"
+CLIENT_ID ="YOUR CLIENT ID"
+CLIENT_SECRET = "YOUR CLIENT SECRET"
 REDIRECT_URL = "http://example.com"
 
 scope = "playlist-modify-private"
